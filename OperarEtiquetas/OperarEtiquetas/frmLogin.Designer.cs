@@ -83,7 +83,7 @@
             this.btningresar.FlatAppearance.BorderColor = System.Drawing.Color.Blue;
             this.btningresar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btningresar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btningresar.Location = new System.Drawing.Point(156, 108);
+            this.btningresar.Location = new System.Drawing.Point(155, 108);
             this.btningresar.Name = "btningresar";
             this.btningresar.Size = new System.Drawing.Size(75, 23);
             this.btningresar.TabIndex = 4;

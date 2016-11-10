@@ -13,7 +13,7 @@ namespace OperarEtiquetas
         public bool Conecta(OracleConnection Conn)
         {
             try
-            {
+            {//hola
                 string StringConexion = "Data Source = CORPACAM; User Id = NAF47; Password = NAF47;";
 
                 if (Conn.State == System.Data.ConnectionState.Closed)

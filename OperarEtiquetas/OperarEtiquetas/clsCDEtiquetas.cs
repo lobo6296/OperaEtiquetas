@@ -13,7 +13,7 @@ namespace OperarEtiquetas
 {
     class clsCDEtiquetas
     {
-
+        //10-11-2016
         private int _EtiquetaVieja;
         private int _EtiquetaNueva;
         private double _PesoViejo;

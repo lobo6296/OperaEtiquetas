@@ -20,7 +20,7 @@ namespace OperarEtiquetas
         clsUtilerias utilerias = new clsUtilerias();
         OracleConnection Conn = null;
 
-        string Ip = "";
+        string Ip = "";//ip 
 
         public frmLogin()
         {
